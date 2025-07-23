@@ -1,4 +1,4 @@
-# DeepInfection
+# An Interpretable Deep Learning Framework for Predictive Modeling of Postoperative Infections in ICU Patients
 
 This repository contains the R scripts and Jupyter notebooks used for the study: **"An Interpretable Deep Learning Framework for Accurate and Robust Postoperative Infection Risk Prediction of Intensive Care Unit Patients."** The scripts implement and evaluate deep learning and machine learning models, including interpretable PermFIT models, to predict the risk of postoperative infection in ICU patients. 
 
